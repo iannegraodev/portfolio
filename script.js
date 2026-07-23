@@ -15,7 +15,7 @@ const PROJECTS = [
     description: "Site institucional para loja de veículos, com catálogo, destaque de estoque e contato direto via WhatsApp.",
     image: "assets/vinimotors-logo.jpg",
     thumbType: "logo",
-    link: "https://vini-motors-site.vercel.app/",
+    link: "https://vini-motors-site-git-staging-frtng.vercel.app/",
   },
   {
     title: "Urso Branco Refrigeração",
