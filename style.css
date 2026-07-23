@@ -326,6 +326,13 @@ svg{ display: block; }
   border-radius: 999px;
   font-weight: 600;
   color: var(--text);
+  cursor: pointer;
+  transition: border-color .2s ease, background .2s ease, transform .2s ease;
+}
+.prova-item:hover{
+  border-color: var(--white);
+  background: rgba(255,255,255,.06);
+  transform: translateY(-3px);
 }
 .prova-logo{
   width: 32px; height: 32px;
