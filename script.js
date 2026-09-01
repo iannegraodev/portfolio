@@ -24,6 +24,13 @@ const PROJECTS = [
     thumbType: "photo",
     link: "https://urso-branco-site.vercel.app/",
   },
+  {
+    title: "YES SOLAR",
+    description: "Site para empresa de energia solar e carregador veicular em Mirassol/SP, com simulador de economia na conta de luz e orçamento direto pelo WhatsApp.",
+    image: "assets/yessolar-logo.webp",
+    thumbType: "logo",
+    link: "https://iannegraodev.github.io/yessolar-site/#topo",
+  },
 ];
 
 /* =========================================================
